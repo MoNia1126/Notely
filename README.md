@@ -38,42 +38,13 @@ uses **Cubit** for state management.
 
 ## 📸 Screenshots
 
-### 🏠 Home Screen
+| Home Screen                            | Login Screen                             | Register Screen                              | Add Note                           | View Note                            |
+|----------------------------------------|------------------------------------------|----------------------------------------------|------------------------------------|--------------------------------------|
+| ![Home Screen](assets/images/home.jpg) | ![Login Screen](assets/images/login.jpg) | ![Register Screen](assets/images/signup.jpg) | ![Add Note](assets/images/add.jpg) | ![View Note](assets/images/view.jpg) |
 
-![Home Screen](assets/images/home.jpg)
-
-### 🔐 Login Screen
-
-![Login Screen](assets/images/login.jpg)
-
-### 📝 Register Screen
-
-![Register Screen](assets/images/signup.jpg)
-
-### ➕ Add Note
-
-![Add Note](assets/images/add.jpg)
-
-### 📄 View Note
-
-![View Note](assets/images/view.jpg)
-
-### 🖊️ Edit Note
-
-![Edit Note](assets/images/edit.jpg)
-
-### 🗑️ Delete Note
-
-![Delete Note](assets/images/delete.jpg)
-
-### 🌍 Change Language
-
-![Change Language](assets/images/change_lan.jpg)
-
-### 🚪 Logout
-
-![Logout](assets/images/logout.jpg)
-
+| Edit Note                            | Delete Note                              | Change Language                                  | Logout                              |
+|--------------------------------------|------------------------------------------|--------------------------------------------------|-------------------------------------|
+| ![Edit Note](assets/images/edit.jpg) | ![Delete Note](assets/images/delete.jpg) | ![Change Language](assets/images/change_lan.jpg) | ![Logout](assets/images/logout.jpg) |
 ---
 
 ## 🛠️ Getting Started
