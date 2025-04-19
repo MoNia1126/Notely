@@ -11,13 +11,13 @@
 #include <firebase_core/firebase_core_plugin_c_api.h>
 #include <rive_common/rive_plugin.h>
 
-void RegisterPlugins(flutter::PluginRegistry *registry) {
-    CloudFirestorePluginCApiRegisterWithRegistrar(
-            registry->GetRegistrarForPlugin("CloudFirestorePluginCApi"));
-    FirebaseAuthPluginCApiRegisterWithRegistrar(
-            registry->GetRegistrarForPlugin("FirebaseAuthPluginCApi"));
-    FirebaseCorePluginCApiRegisterWithRegistrar(
-            registry->GetRegistrarForPlugin("FirebaseCorePluginCApi"));
-    RivePluginRegisterWithRegistrar(
-            registry->GetRegistrarForPlugin("RivePlugin"));
+void RegisterPlugins(flutter::PluginRegistry* registry) {
+  CloudFirestorePluginCApiRegisterWithRegistrar(
+      registry->GetRegistrarForPlugin("CloudFirestorePluginCApi"));
+  FirebaseAuthPluginCApiRegisterWithRegistrar(
+      registry->GetRegistrarForPlugin("FirebaseAuthPluginCApi"));
+  FirebaseCorePluginCApiRegisterWithRegistrar(
+      registry->GetRegistrarForPlugin("FirebaseCorePluginCApi"));
+  RivePluginRegisterWithRegistrar(
+      registry->GetRegistrarForPlugin("RivePlugin"));
 }
