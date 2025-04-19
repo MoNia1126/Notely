@@ -10,6 +10,7 @@ class SplashText extends StatelessWidget {
       AppLocalizations.of(context)!.notesApp,
       style: const TextStyle(
         fontSize: 40,
+        fontFamily: 'PlaywriteCU',
         fontWeight: FontWeight.bold,
         color: Colors.white,
       ),
